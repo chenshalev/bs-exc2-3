@@ -4,3 +4,9 @@ body{
 header {
     font-family: 'Courgette', cursive;
 }
+.navbar-brand {
+    font-family: 'Courgette', cursive;
+}
+.navbar {
+    margin-bottom: 0;
+}
